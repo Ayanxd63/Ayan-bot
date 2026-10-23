@@ -1,0 +1,6 @@
+node_modules/
+session/
+data/vars.json
+.env
+*.log
+data/db.json
